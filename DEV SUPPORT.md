@@ -38,6 +38,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Git](https://git-scm.com/)
 - [KDnuggets](https://www.kdnuggets.com/)
 - [Dev.to](https://dev.to/)
+- [Twitch](https://www.twitch.tv/)
 
 <br />
 
@@ -47,6 +48,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 
 - [Source Making](https://sourcemaking.com/) - Contém modelos e descrições de Design Patterns, Antipatters, Refactoring, UML.
 - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) - Guia de estilo para padronizar de commits.
+- [Padrões de Projeto em Python](https://github.com/kelvins/design-patterns-python)
 
 <br />
 
