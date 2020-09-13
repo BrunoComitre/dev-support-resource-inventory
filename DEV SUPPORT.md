@@ -13,6 +13,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
   - [TO-DO](#to-do)
   - [Descobrir Novas Tecnologias e Assuntos](#descobrir-novas-tecnologias-e-assuntos)
   - [Padronização](#padronizacao)
+  - [Ajuda](#ajuda)
   - [Ferramentas](#ferramentas)
   - [GIT](#git)
   - [Referências](#referências)
@@ -46,6 +47,14 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 
 - [Source Making](https://sourcemaking.com/) - Contém modelos e descrições de Design Patterns, Antipatters, Refactoring, UML.
 - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) - Guia de estilo para padronizar de commits.
+
+<br />
+
+***
+
+## Ajuda
+
+- [ Stack Overflow](https://pt.stackoverflow.com/) - Site de perguntas e respostas para programadores profissionais e entusiastas.
 
 <br />
 
