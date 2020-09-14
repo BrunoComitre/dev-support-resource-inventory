@@ -10,13 +10,13 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 
 ## Indíce
 
-  - [TO-DO](#to-do)
-  - [Descobrir Novas Tecnologias e Assuntos](#descobrir-novas-tecnologias-e-assuntos)
-  - [Padronização](#padronizacao)
-  - [Ajuda](#ajuda)
-  - [Ferramentas](#ferramentas)
-  - [GIT](#git)
-  - [Referências](#referências)
+- [TO-DO](#to-do)
+- [Descobrir Novas Tecnologias e Assuntos](#descobrir-novas-tecnologias-e-assuntos)
+- [Patterns](#patterns)
+- [Ajuda](#ajuda)
+- [Ferramentas](#ferramentas)
+- [GIT](#git)
+- [Referências](#referências)
 
 <br />
 
@@ -39,17 +39,17 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [KDnuggets](https://www.kdnuggets.com/)
 - [Dev.to](https://dev.to/)
 - [Twitch](https://www.twitch.tv/)
-- [Web Developer 2020 - Roadmap](https://github.com/kamranahmedse/developer-roadmap<br />)
+- [Web Developer 2020 - Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 
 <br />
 
 ***
 
-## Padronização
+## Patterns
 
 - [Source Making](https://sourcemaking.com/) - Contém modelos e descrições de Design Patterns, Antipatters, Refactoring, UML.
 - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) - Guia de estilo para padronizar de commits.
-- [Padrões de Projeto em Python](https://github.com/kelvins/design-patterns-python)
+- [Padrões de Projeto em Python](https://github.com/kelvins/design-patterns-python) - Guia de padrôes Python.
 
 <br />
 
@@ -95,4 +95,3 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 <br />
 
 ***
-Vʋ
