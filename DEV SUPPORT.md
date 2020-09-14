@@ -39,6 +39,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [KDnuggets](https://www.kdnuggets.com/)
 - [Dev.to](https://dev.to/)
 - [Twitch](https://www.twitch.tv/)
+- [Web Developer 2020 - Roadmap](https://github.com/kamranahmedse/developer-roadmap<br />)
 
 <br />
 
@@ -66,8 +67,9 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 
 - [Json Editor Online](https://jsoneditoronline.org/) - Formatador Json.
 - [Regular Expression](https://regex101.com/) - Criador de RegEx.
+- [Códigos de status de respostas HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status) - Status HTTP Mozilla com descrições.
 - [HTTP STATUS DOGS](https://httpstatusdogs.com/) - Códigos de status de resposta do protocolo de transferência de hipertexto com cachorros.
-- [HTTP Cats]() - Códigos de status de resposta do protocolo de transferência de hipertexto com gatos.
+- [HTTP Cats](https://http.cat/) - Códigos de status de resposta do protocolo de transferência de hipertexto com gatos.
 - [Travis CI](https://travis-ci.org/) - Serviço de integração contínua hospedado, usado para criar e testar projetos de software hospedados no GitHub e Bitbucket.
 
 <br />
@@ -80,6 +82,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [How to delete remote branches in Git](https://www.educative.io/edpresso/how-to-delete-remote-branches-in-git) - Artigo.
 - [Pro Git book](https://git-scm.com/book/pt-br/v2) - Livro git oficial.
 - [Git](https://git-scm.com/docs/git-log) - Documentação git oficial.
+- [Lista de comandos úteis do GIT](https://gist.github.com/leocomelli/2545add34e4fec21ec16) - Gist Github.
 
 <br />
 
@@ -92,3 +95,4 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 <br />
 
 ***
+Vʋ
