@@ -12,6 +12,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 
   - [TO-DO](#to-do)
   - [Descobrir Novas Tecnologias e Assuntos](#descobrir-novas-tecnologias-e-assuntos)
+  - [Ao Iniciar Projeto](#ao-iniciar-projeto)
   - [Patterns](#patterns)
   - [Ajuda](#ajuda)
   - [Ferramentas](#ferramentas)
@@ -47,6 +48,18 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Free Code Camp](https://www.freecodecamp.org/news/)
 - [Machine Learning for Computer Security](http://www.mlsec.org/)
 - [Defcon](https://www.defcon.org/)
+
+<br />
+
+***
+
+## Ao Iniciar Projeto
+
+- **Passo 1:** Configurar pipenv.
+- **Passo 2:** Configurar VsCode.
+- **Passo 3:** Adicionar IPython.
+- **Passo 4:** Configurar requirements.txt separado dev/prod/local, quando usar docker.
+- **Passo 5:** Usar boas praticas de commit.
 
 <br />
 
