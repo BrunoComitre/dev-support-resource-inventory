@@ -71,6 +71,8 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Refactoring.Guru](https://refactoring.guru/) - Contém modelos e descrições de Design Patterns, Antipatters, Refactoring, UML.
 - [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) - Guia de estilo para padronizar de commits.
 - [Padrões de Projeto em Python](https://github.com/kelvins/design-patterns-python) - Guia de padrôes Python.
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
 
 <br />
 
@@ -96,6 +98,8 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [API Dog.ceo](https://dog.ceo/dog-api/) - A maior coleção de fotos de cães de código aberto da Internet.
 - [PyPI Stats](https://pypistats.org/) - Tem como objetivo fornecer informações de download agregadas sobre pacotes Python disponíveis no índice de pacotes Python.
 - [IPython](https://ipython.org/install.html) - Fornece uma arquitetura rica para computação interativa.
+- [Libraries.io](https://libraries.io/) - Monitore suas dependências.
+- [hoppscotch](https://github.com/hoppscotch/hoppscotch) - Um criador de solicitações de API gratuito.
 
 <br />
 
