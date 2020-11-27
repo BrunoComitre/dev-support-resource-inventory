@@ -17,6 +17,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
   - [Ajuda](#ajuda)
   - [Ferramentas](#ferramentas)
   - [GIT](#git)
+  - [DevOps](#devops)
   - [Referências](#referências)
 
 <br />
@@ -48,6 +49,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Free Code Camp](https://www.freecodecamp.org/news/)
 - [Machine Learning for Computer Security](http://www.mlsec.org/)
 - [Defcon](https://www.defcon.org/)
+- [Hashnode](https://hashnode.com/)
 
 <br />
 
@@ -113,6 +115,13 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Git](https://git-scm.com/docs/git-log) - Documentação git oficial.
 - [Lista de comandos úteis do GIT](https://gist.github.com/leocomelli/2545add34e4fec21ec16) - Gist Github.
 - [Git](https://git-scm.com/) - Site Git.
+- [git-start](https://github.com/fadamiao/git-start) - Este é um guia colaborativo de como utilizar as funcionalidades básicas do sistema de controle de versão Git.
+
+<br />
+
+## DevOps
+
+- [DevOps Resources](https://github.com/bregman-arie/devops-resources) - Lista Awesome de diversas ferramentas.
 
 <br />
 
