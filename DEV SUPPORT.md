@@ -18,7 +18,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
   - [Ferramentas](#ferramentas)
   - [GIT](#git)
   - [DevOps](#devops)
-  - [Referências](#referências)
+  - [Músicas para Programar](#musicas-para-programar)
 
 <br />
 
@@ -50,6 +50,20 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Machine Learning for Computer Security](http://www.mlsec.org/)
 - [Defcon](https://www.defcon.org/)
 - [Hashnode](https://hashnode.com/)
+- [MIT Technology Review](https://www.technologyreview.com/)
+- [The Conversation](https://theconversation.com/us)
+- [Wired](https://www.wired.com/)
+- [The Register](https://www.theregister.com/)
+- [Intelligencer](https://nymag.com/intelligencer/)
+- [O Futuro das Coisas](https://ofuturodascoisas.com/)
+- [IT Forum](https://itforum.com.br/)
+- [Hacker News Bulletin](http://www.hackersnewsbulletin.com/)
+- [The Startup](https://medium.com/swlh)
+- [Hackernoon](https://hackernoon.com/)
+- [Better Programming](https://medium.com/better-programming)
+- [Factory Mind](https://medium.com/factory-mind)
+- [Velotio Perspectives](https://medium.com/velotio-perspectives)
+- [iMasters](https://imasters.com.br/)
 
 <br />
 
@@ -92,6 +106,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 ## Ferramentas
 
 - [Json Editor Online](https://jsoneditoronline.org/) - Formatador Json.
+- [JSON for Linking Data](https://json-ld.org//) - Visualizador e depurador JSON-LD baseado na web.
 - [Regular Expression](https://regex101.com/) - Criador de RegEx.
 - [Códigos de status de respostas HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status) - Status HTTP Mozilla com descrições.
 - [HTTP STATUS DOGS](https://httpstatusdogs.com/) - Códigos de status de resposta do protocolo de transferência de hipertexto com cachorros.
@@ -115,7 +130,9 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Git](https://git-scm.com/docs/git-log) - Documentação git oficial.
 - [Lista de comandos úteis do GIT](https://gist.github.com/leocomelli/2545add34e4fec21ec16) - Gist Github.
 - [Git](https://git-scm.com/) - Site Git.
+- [Git Config](https://git-scm.com/docs/git-config)
 - [git-start](https://github.com/fadamiao/git-start) - Este é um guia colaborativo de como utilizar as funcionalidades básicas do sistema de controle de versão Git.
+- [git e github parte 1: o que são e como usar?](http://www.ratamero.com/blog/git-e-github-parte-1-o-que-sao-e-como-usar/)
 
 <br />
 
@@ -123,6 +140,15 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 
 - [DevOps Resources](https://github.com/bregman-arie/devops-resources) - Lista Awesome de diversas ferramentas.
 
+<br />
+
+## Músicas para Programar
+
+- [20/20 LDN Recordings](https://www.youtube.com/channel/UC5AH6_-Lg1BWb3x7irSIVQA)
+- [Ambient](https://www.youtube.com/channel/UCm3-xqAh3Z-CwBniG1u_1vw)
+- [City Pop](https://www.youtube.com/results?search_query=city+pop)
+- [Tony Anderson](https://www.youtube.com/channel/UCacN0LHUzn49j_PglvkuK2Q)
+ 
 <br />
 
 ***
