@@ -37,6 +37,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Ensino](https://canaldoensino.com.br/blog/)
 - [Khan Academy](https://www.khanacademy.org/)
 - [Coursera](https://pt.coursera.org/lecture/estatistica-nao-parametrica/teste-de-kolmogorov-smirnov-bOTDa)
+- [Duolingo](https://www.duolingo.com/)
 
 <br />
 
@@ -125,6 +126,8 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Quanta Magazine](https://www.quantamagazine.org/)
 - [Playing Numbers](https://www.playingnumbers.com/)
 - [Towards Data Science](https://towardsdatascience.com/)
+- [Shane Lynn](https://www.shanelynn.ie/)
+- [There is a bot for](https://thereisabotforthat.com/)
 
 <br />
 

@@ -64,6 +64,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Factory Mind](https://medium.com/factory-mind)
 - [Velotio Perspectives](https://medium.com/velotio-perspectives)
 - [iMasters](https://imasters.com.br/)
+- [Developer Survey Results](https://insights.stackoverflow.com/survey/2019#top-paying-technologies)
 
 <br />
 
