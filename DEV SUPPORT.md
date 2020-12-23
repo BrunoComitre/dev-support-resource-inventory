@@ -16,9 +16,9 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
   - [Patterns](#patterns)
   - [Ajuda](#ajuda)
   - [Ferramentas](#ferramentas)
-  - [GIT](#git)
   - [DevOps](#devops)
   - [Músicas para Programar](#musicas-para-programar)
+  - [GIT](#git)
 
 <br />
 
@@ -99,6 +99,9 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 
 - [Stack Overflow](https://pt.stackoverflow.com/) - Site de perguntas e respostas para programadores profissionais e entusiastas.
 - [Common Python Data Structures (Guide)](https://realpython.com/python-data-structures/)
+- [Resources for gRPC](https://github.com/grpc-ecosystem/awesome-grpc)
+- [Versões de Projeto](https://www.tecmundo.com.br/macos/1698-o-que-sao-versoes-alfa-beta-rc-e-final-.htm)
+- [Sibling package imports](https://stackoverflow.com/questions/6323860/sibling-package-imports/50193944#50193944)
 
 <br />
 
@@ -118,7 +121,27 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [IPython](https://ipython.org/install.html) - Fornece uma arquitetura rica para computação interativa.
 - [Libraries.io](https://libraries.io/) - Monitore suas dependências.
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - Um criador de solicitações de API gratuito.
+- [shields.io](https://shields.io/)
 
+<br />
+
+***
+
+## DevOps
+
+- [DevOps Resources](https://github.com/bregman-arie/devops-resources) - Lista Awesome de diversas ferramentas.
+
+<br />
+
+***
+
+## Músicas para Programar
+
+- [20/20 LDN Recordings](https://www.youtube.com/channel/UC5AH6_-Lg1BWb3x7irSIVQA)
+- [Ambient](https://www.youtube.com/channel/UCm3-xqAh3Z-CwBniG1u_1vw)
+- [City Pop](https://www.youtube.com/results?search_query=city+pop)
+- [Tony Anderson](https://www.youtube.com/channel/UCacN0LHUzn49j_PglvkuK2Q)
+ 
 <br />
 
 ***
@@ -134,22 +157,111 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Git Config](https://git-scm.com/docs/git-config)
 - [git-start](https://github.com/fadamiao/git-start) - Este é um guia colaborativo de como utilizar as funcionalidades básicas do sistema de controle de versão Git.
 - [git e github parte 1: o que são e como usar?](http://www.ratamero.com/blog/git-e-github-parte-1-o-que-sao-e-como-usar/)
+- [Git Gist Github](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 
-<br />
 
-## DevOps
 
-- [DevOps Resources](https://github.com/bregman-arie/devops-resources) - Lista Awesome de diversas ferramentas.
+Este artigo tem o intuito de expor uma abordagem de como trabalhar utilizando o fluxo git flow. [Utilizando o fluxo Git Flow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04).
 
-<br />
+Se você já trabalha com o git como principal ferramenta de controle de versão, já deve ter visto várias abordagens de como utilizar e controlar branchs em um cenário de produção ou pessoal.
 
-## Músicas para Programar
+E se você é novo com git, este fluxo irá te ajudar a ter maior familiaridade de como empresas, projetos opensource costumam utilizar seus fluxos de trabalho.
 
-- [20/20 LDN Recordings](https://www.youtube.com/channel/UC5AH6_-Lg1BWb3x7irSIVQA)
-- [Ambient](https://www.youtube.com/channel/UCm3-xqAh3Z-CwBniG1u_1vw)
-- [City Pop](https://www.youtube.com/results?search_query=city+pop)
-- [Tony Anderson](https://www.youtube.com/channel/UCacN0LHUzn49j_PglvkuK2Q)
- 
+É muito comum vermos pessoas utilizando somente um branch para fazer commits em projetos pessoais. Isto não é errado, é muito tranquilo de se controlar tudo em uma branch quando se está desenvolvendo sozinho, mas o cenário muda bastante quando temos que interagir com mais contribuidores, seja em um projeto opensource ou privado.
+
+Nessas horas é suma importância que se tenha total controle do que está sendo produzido por sua equipe, onde, ao mesmo tempo são corrigidos falhas, implementado novas funcionalidades e ter o seu código de produção com total funcionamento entregue ao seu cliente.
+
+A **master** irá contér todo código já testado, versionado que será entregue ao cliente e a **develop** é onde todo fluxo de trabalho irá ocorrer antes de fazer o release versionado que será feito merge na **master**.
+
+A **develop** deve sempre conter o código mais atual, onde as branchs de features serão ramificadas tendo ela como base.
+
+Exemplo, suponhamos que você precise criar um feature que mudará todo o fluxo e interface de um componente, como fariamos para criar nossa branch ?
+
+Certifique-se de que a branch develop existe no seu repositório remoto listando suas branchs locais e remotas:
+```
+ $ git branch -a
+```
+
+Caso não esteja, faça a sincronização do seu repositório remoto, faça o checkout criando sua branch develop e envie para seu repositório remoto:
+```
+$ git fetch origin && git checkout -b develop && git push origin develop
+```
+
+Após ter criado a develop, onde irá acontecer todo desenvolvimento, crie a branch respectiva a sua implementação, lembre-se de manter um padrão de nomenclatura para facilitar o entendimento como é sugerido no git flow:
+
+**feature**: para novas implementações
+
+**release**: para finalizar o release e tags
+
+**hotfix**: para resolver problema crítico em produção que não pode esperar novo release
+
+Neste caso, como já estamos na **develop**:
+```
+$ git checkout -b feature/novo-componente
+```
+
+Após criado, você trabalha em sua modificação localmente, caso seja necessário que outra pessoa trabalhe nesta mesma implementação você deve compartilhar para seu repositório remoto:
+```
+$ git push origin feature/novo-componente
+```
+
+Show, implementação feita, agora é hora de fazer o merge deste feature com a develop, para isto, faça o checkout para a branch develop, faça o merge da feature e atualize o remoto:
+```
+$ git checkout develop && git merge feature/novo-componente && git push origin develop
+```
+
+Caso não ocorra nenhum conflito, beleza, estamos prontos para fazer o release desta implementação e submeter ao repositório remoto, para isto, crie a branch de release e envie:
+```
+$ git checkout -b release/v1.0.1 && git push origin release/v1.0.1
+```
+
+Após feito os ultimos testes, você já pode fazer a tag da versão:
+```
+$ git tag -a v1.0.1 -m “Release do novo componente”
+```
+
+Lembrando, que se foi identificado algum bug durante o processo, você deve tratar este bug na branch de release, enviar para a master e para a develop também, fazendo que a develop sempre contenha as correções.
+
+Nas hora de inserir a tag, gosto de utilizar tag anotadas, pois ela registra informações de quem fez a tag, data, hash, caso não queira estas informações, simplifique:
+```
+$ git tag v1.0.1
+```
+
+Agora vamos conferir se a tag foi criada e enviar para o repositório remoto:
+```
+$ git show v1.0.1 && git push origin v1.0.1
+```
+
+Se tudo correu bem, sua tag será criada e estamos aptos a fazer o merge com a master deste pequeno release na master:
+```
+$ git checkout master && git merge release/v1.0.1
+```
+
+XABLAU
+
+Prontinho, desta forma, obtemos informações de todas as etapas do desenvolvimento, além de padronizar a nomenclatura das branchs facilitando na hora de puxar um log maroto.
+
+Dica: Existe um plugin para facilitar a criação e organização do seu repositório utilizando o fluxo do git-flow, se liga nesse plugin massa!
+
+#### Comandos diversos
+
+Atualizar branch com a develop:
+```
+git merge develop
+```
+
+Para apagar o branch localmente:
+```
+git branch -D <nome do branch>
+```
+
+Para apagar o branch remotamente:
+```
+git push <nome do origin> <nome do branch> --delete
+```
+
+Pegar a branch, mandar as coisas dela pra develop mas sem fechar: git checkout develop && git merge feature/architecture && git push origin develop
+
 <br />
 
 ***

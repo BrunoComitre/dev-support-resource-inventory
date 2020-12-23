@@ -79,6 +79,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Open Source Society University Computer Science](https://github.com/ossu/computer-science)
 - [Geeks For Geeks](https://www.geeksforgeeks.org/)
 - [Awesome list of awesome things](https://github.com/topics/awesome-list)
+- [GuiaFoca GNU/Linux](https://www.guiafoca.org/#sobre-o-focalinux)
 
 <br />
 
@@ -128,6 +129,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Towards Data Science](https://towardsdatascience.com/)
 - [Shane Lynn](https://www.shanelynn.ie/)
 - [There is a bot for](https://thereisabotforthat.com/)
+- [Gartner Hype Cycle Data Science 2019](https://www.google.com/search?q=gartner+hype+cycle+data+science+2019&sxsrf=ALeKk03Tccr5JmdgeWWV3-_-cp3sPJtL1g:1593479859205&tbm=isch&source=iu&ictx=1&fir=eMwB4ob0w5I9SM%2CdnKluq0f3J2jSM%2C_&vet=1&usg=AI4_-kSkCPJJF7SNCBing2yC0uaxcqK9KQ&sa=X&ved=2ahUKEwjvntuHr6jqAhVFJLkGHQSfBBUQ9QEwBHoECAoQJA&biw=1366&bih=667)
 
 <br />
 
