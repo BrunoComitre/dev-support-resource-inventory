@@ -26,7 +26,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 
 ## TO-DO
 
-- [ ] Texto.
+- [ ] A   cessar conta stack overflow pra quando for fazer desenvolvimento.
 
 <br />
 
@@ -65,6 +65,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Velotio Perspectives](https://medium.com/velotio-perspectives)
 - [iMasters](https://imasters.com.br/)
 - [Developer Survey Results](https://insights.stackoverflow.com/survey/2019#top-paying-technologies)
+- [Roadmap to becoming a web developer in 2020](https://github.com/kamranahmedse/developer-roadmap)
 
 <br />
 
@@ -90,6 +91,8 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Padrões de Projeto em Python](https://github.com/kelvins/design-patterns-python) - Guia de padrôes Python.
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
+- [Micro-Service Design Pattern: Dependency Driven Decomposition (DDD)](https://medium.com/swlh/micro-service-design-pattern-dependency-driven-decomposition-ddd-d2d28df2fedc)
+- [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 
 <br />
 
@@ -102,6 +105,8 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Resources for gRPC](https://github.com/grpc-ecosystem/awesome-grpc)
 - [Versões de Projeto](https://www.tecmundo.com.br/macos/1698-o-que-sao-versoes-alfa-beta-rc-e-final-.htm)
 - [Sibling package imports](https://stackoverflow.com/questions/6323860/sibling-package-imports/50193944#50193944)
+- [Gitter](https://gitter.im/explore/tags/curated:data-science)
+- [Slack](https://slack.com/intl/pt-br/)
 
 <br />
 
@@ -130,6 +135,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 ## DevOps
 
 - [DevOps Resources](https://github.com/bregman-arie/devops-resources) - Lista Awesome de diversas ferramentas.
+- [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
 
 <br />
 
@@ -157,7 +163,8 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Git Config](https://git-scm.com/docs/git-config)
 - [git-start](https://github.com/fadamiao/git-start) - Este é um guia colaborativo de como utilizar as funcionalidades básicas do sistema de controle de versão Git.
 - [git e github parte 1: o que são e como usar?](http://www.ratamero.com/blog/git-e-github-parte-1-o-que-sao-e-como-usar/)
-- [Git Gist Github](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+- [Git Gist GitHub](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
+- [GitHub Docs](https://docs.github.com/pt)
 
 
 
