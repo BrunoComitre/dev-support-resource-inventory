@@ -165,7 +165,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [git e github parte 1: o que são e como usar?](http://www.ratamero.com/blog/git-e-github-parte-1-o-que-sao-e-como-usar/)
 - [Git Gist GitHub](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 - [GitHub Docs](https://docs.github.com/pt)
-
+- [Contribuindo em projetos open source com o github](https://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
 
 
 Este artigo tem o intuito de expor uma abordagem de como trabalhar utilizando o fluxo git flow. [Utilizando o fluxo Git Flow](https://medium.com/trainingcenter/utilizando-o-fluxo-git-flow-e63d5e0d5e04).
