@@ -138,6 +138,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [ESCOLA DE DATA SCIENCE](https://escola.sigmoidal.ai/?utm_fbad=6239066007251&fbclid=PAAaYcFLrU3yhezUpPBNK3Q3KE9U1cZEX5NdKEt4pqpQav_Iu5RN3dBqYHiUs)
 - [Governo Open Source](https://amarabuco.github.io/governoopensource/)
 - [HENRIQUE BASTOS](https://henriquebastos.net/)
+- [Ciência de Dados por uma Causa](https://sites.google.com/view/cienciacausa/a%C3%A7%C3%B5es-registradas)
 
 Através deste texto: [Jupyter is now a full-fledged IDE](https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095). Aprender e colocar em prática: [nbdev](https://github.com/fastai/nbdev) e [@jupyterlab/debugger](https://github.com/jupyterlab/debugger)
 
@@ -216,6 +217,8 @@ Através deste texto: [Jupyter is now a full-fledged IDE](https://towardsdatasci
 - [The Cybersecurity Market 2016 and future predictions: How to Deal with 100s of Solutions](https://resources.infosecinstitute.com/topic/the-cybersecurity-market-2016-and-future-predictions-how-to-deal-with-100s-of-solutions/#gref)
 - [Cyber-Security Career Planning](https://medium.com/@alexanderpolyakov/cyber-security-career-planning-447baa967b42)
 - [Python for Cybersecurity — Lesson 1: Introduction to Python](https://medium.com/cyberdefendersprogram/python-for-cyber-security-lesson-1-introduction-to-python-1976d817976)
+- [Web Security Academy](https://portswigger.net/web-security)
+- [Free Cybersecurity Community Resources and Programs](https://www.sans.org/free/)
 
 <br />
 
