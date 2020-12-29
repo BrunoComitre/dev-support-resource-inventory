@@ -82,6 +82,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [GuiaFoca GNU/Linux](https://www.guiafoca.org/#sobre-o-focalinux)
 - [App Ideas Collection](https://github.com/florinpop17/app-ideas)
 - [Public APIs](https://github.com/public-apis/public-apis)
+- [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python)
 
 <br />
 
@@ -134,6 +135,9 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Gartner Hype Cycle Data Science 2019](https://www.google.com/search?q=gartner+hype+cycle+data+science+2019&sxsrf=ALeKk03Tccr5JmdgeWWV3-_-cp3sPJtL1g:1593479859205&tbm=isch&source=iu&ictx=1&fir=eMwB4ob0w5I9SM%2CdnKluq0f3J2jSM%2C_&vet=1&usg=AI4_-kSkCPJJF7SNCBing2yC0uaxcqK9KQ&sa=X&ved=2ahUKEwjvntuHr6jqAhVFJLkGHQSfBBUQ9QEwBHoECAoQJA&biw=1366&bih=667)
 - [Cookiecutter Data Science](https://www.google.com/search?q=cookiecutter%20data%20science)
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+- [ESCOLA DE DATA SCIENCE](https://escola.sigmoidal.ai/?utm_fbad=6239066007251&fbclid=PAAaYcFLrU3yhezUpPBNK3Q3KE9U1cZEX5NdKEt4pqpQav_Iu5RN3dBqYHiUs)
+- [Governo Open Source](https://amarabuco.github.io/governoopensource/)
+- [HENRIQUE BASTOS](https://henriquebastos.net/)
 
 <br />
 

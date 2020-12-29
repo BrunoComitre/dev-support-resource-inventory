@@ -107,6 +107,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Sibling package imports](https://stackoverflow.com/questions/6323860/sibling-package-imports/50193944#50193944)
 - [Gitter](https://gitter.im/explore/tags/curated:data-science)
 - [Slack](https://slack.com/intl/pt-br/)
+- [Mozilla Recursos para desenvolvedores](https://developer.mozilla.org/pt-BR/)
 
 <br />
 
