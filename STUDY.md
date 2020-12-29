@@ -139,6 +139,8 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [Governo Open Source](https://amarabuco.github.io/governoopensource/)
 - [HENRIQUE BASTOS](https://henriquebastos.net/)
 
+Através deste texto: [Jupyter is now a full-fledged IDE](https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095). Aprender e colocar em prática: [nbdev](https://github.com/fastai/nbdev) e [@jupyterlab/debugger](https://github.com/jupyterlab/debugger)
+
 <br />
 
 ***
