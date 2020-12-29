@@ -83,6 +83,7 @@ Links para facilitar o desenvolvimento na hora de fazer pesquisa.
 - [App Ideas Collection](https://github.com/florinpop17/app-ideas)
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [The Python Open Source Computer Science Degree](https://github.com/ForrestKnight/open-source-cs-python)
+- [Literate Programmin](http://www.literateprogramming.com/)
 
 <br />
 
