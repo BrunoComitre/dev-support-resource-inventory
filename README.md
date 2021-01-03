@@ -61,7 +61,7 @@ Initiation steps for a new projectl:
 
 It is always nice to add a short column for role models nearby that inspire you:
 
-- [TEXT](LINK)
+- [RealWorld example apps](https://github.com/gothinkster/realworld) - Repository
 - [TEXT](LINK)
 
 [GO TO INDEX](#index)
