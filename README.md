@@ -27,6 +27,14 @@
   - [Tools](#tools)
   - [DevOps](#devops)
   - [DataOps](#dataops)
+- [HTTP Requests](#http-requests)
+  - [Types of Communication](#types-of-communication)
+  - [API](#api)
+- [Development](#development)
+  - [Devevolpment Environment](#development-environment)
+  - [Methodologies](#methodologies)
+  - [Best Pratices](#best-pratices)
+  - [Microservices](#microservices)
 - [Good Separate Texts](#good-separate-texts)
 - [GIT](#git)
 - [Notes](#notes)
@@ -285,6 +293,43 @@ Development tools for projects:
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - A free API request maker.
 - [shields.io](https://shields.io/)
 
+- [Anaconda Cloud](https://anaconda.org/) - Anaconda Cloud is where data scientists share their work. You can search and download popular Python and R packages and notebooks to start your data science work.
+- [Apache Flink](http://flink.apache.org/) A platform for efficient, distributed and general purpose data processing.
+- [Apache Spark](https://spark.apache.org/) - Extremely fast cluster computing.
+- [Datawrapper 1](https://www.datawrapper.de/) - An open source data visualization platform that helps everyone to create simple, correct and embeddable graphics.
+- [Datawrapper 2](https://github.com/datawrapper/datawrapper) - It's also on GitHub.
+- [Featuretools](https://github.com/featuretools/featuretools/) - An open source framework for automated resource engineering written in Python.
+- [Markdown](https://www.markdownguide.org/) - Markdown Guide is a free, open source reference guide that explains how to use Markdown, the simple and easy to use markup language that you can use to format almost any document.
+- [How To Write Pseudo-code](https://dev.to/flippedcoding/how-to-write-pseudo-code-2jfe)
+- [Dog API](https://dog.ceo/dog-api/)
+- [Pudim Test](http://pudim.com.br/)
+- [Index Of](http://index-of.es/)
+- [Read the Docs](https://readthedocs.org/)
+- [Bitbucket](https://bitbucket.org/) - It's more than just Git code management. Bitbucket gives teams a place to plan projects, collaborate on code, test and deploy.
+- [GitHub](https://github.com/) - Development platform inspired by the way you work. From open source to business, you can host and analyze code, manage projects and build software.
+- [GitBook](https://legacy.gitbook.com/) - Documentation made easy. Helps your team to write, collaborate and publish content online.
+- [Pivotal Tracker](https://www.pivotaltracker.com/) - It is the agile project management tool of choice for developers worldwide for real-time collaboration around a prioritized and shared backlog.
+- [NotABug](https://notabug.org/) - Open source code collaboration platform for freely licensed projects.
+- [Kite](https://kite.com/) - It is a cloud-based co-pilot that increases your programming environment.
+- [reddit](https://www.reddit.com/) - Offers the best of the internet in one place. Get a constant update of news, fun stories, photos, memes and videos just for you.
+- [Grafana](https://grafana.com/) - Data visualization and monitoring with support for Graphite, InfluxDB, Prometheus, Elasticsearch and many other databases.
+- [Graph Viz](https://gephi.org/) - Leading platform for visualization and exploration for all types of graphics and networks. Gephi is open source and free.
+- [Collaboratory](https://colab.research.google.com/notebooks/welcome.ipynb) - It's a free Jupyter notebook environment that requires no configuration and runs entirely in the cloud.
+- [Python Anywhere](https://www.pythonanywhere.com/) - Host, run and code Python in the cloud.
+- [Neo4j](https://neo4j.com/) - It is a graphical database management system.
+- [Docker](https://www.docker.com/) - It is a software technology that provides containers, providing an additional layer of abstraction and automation of operating system level virtualization in Windows and Linux.
+- [Binder](https://mybinder.org/) - It is a Git repository that has been equipped with the appropriate compilation files so that its content can be connected to a BinderHub instance. These repositories currently live mainly on GitHub, although we plan to support more online repositories, such as GitLab or BitBucket.
+- [IPython](https://ipython.org/) - Interactive interpreter for several programming languages, but especially focused on Python.
+- [Overleaf](https://en.overleaf.com/) - LaTeX, Evolved. The easy-to-use, online and collaborative LaTeX editor.
+- [draw.io](https://www.draw.io/) - It is an online diagramming site with the mxGraph GraphEditor example as the base of the application part.
+- [RED HAT - OpenShift](https://www.openshift.com/) - Deployment and management of container-based software. It is a supported distribution of Kubernetes using Docker and DevOps tools for accelerated application development.
+- [AdelaiDet](https://github.com/aim-uofa/AdelaiDet) - AdelaiDet is an open source toolbox for multiple instance-level recognition tasks on top of Detectron2. All instance-level recognition works from our group are open-sourced here.
+- [Spinnaker](https://www.spinnaker.io/concepts/) - Spinnaker is an open-source, multi-cloud continuous delivery platform that helps you release software changes with high speed and confidence.
+
+- [PyCharm](https://www.jetbrains.com/pycharm/) - The Python IDE for Professional Developers.
+- [Brython](https://github.com/brython-dev/brython) - Browser Python is an implementation of Python 3 running in the browser, with an interface to the DOM elements and events.
+- [JustPy](https://github.com/elimintz/justpy) - JustPy is an object-oriented, component based, high-level Python Web Framework that requires no front-end programming.
+
 <br />
 
 |      Development      |                                Tools                                |
@@ -313,14 +358,158 @@ Development tools for projects:
 
 - [DevOps Resources](https://github.com/bregman-arie/devops-resources) - Awesome list of different tools.
 - [RESTful API Designing guidelines — The best practices](https://hackernoon.com/restful-api-designing-guidelines-the-best-practices-60e1d954e7c9)
+- [Learning DevOps on the track: articles, videos, channels, communities ...](https://medium.com/azure-na-pratica/aprendendo-devops-na-faixa-artigos-v%C3%ADdeos-canais-comunidades-c828a8a1b706)
 
 [GO TO INDEX](#index)
 
 <br />
 
-## DataOps
+### DataOps
 
 Automated, process-oriented methodology used by analytical and data teams to improve quality and reduce data analysis cycle time:
+
+- [TEXT](LINK)
+- [TEXT](LINK)
+
+[GO TO INDEX](#index)
+
+<br />
+
+## HTTP Requests
+
+Below is a list of sites that have an introduction to what HTTP Requests is:
+
+- [Difference Between Those HTTP Requests](https://dev.to/flippedcoding/difference-between-those-http-requests-2m13)
+
+- [Quick start guide](https://requests.readthedocs.io/pt_BR/latest/user/quickstart.html) - This page gives a good introduction on how to start using Requests.
+
+[GO TO INDEX](#index)
+
+<br />
+
+#### Types of Communication
+
+- Messaging (MQ): queue
+- Socket: real time
+- Http: not so real
+
+[GO TO INDEX](#index)
+
+<br />
+
+#### API
+
+The acronym API that comes from the English Application Programming Interface (In Portuguese, it means Application Programming Interface), is a set of routines and standards established and documented by an application A, so that other applications can use the functionalities of this application A, without needing to know details of the software implementation.
+
+In this way, we understand that the APIs allow interoperability between applications. In other words, communication between applications and between users.
+
+- not every api is web
+- Pass get that does not accept field, just parameter on the route.
+- Search URL pattern
+
+[GO TO INDEX](#index)
+
+<br />
+
+**API REST**
+
+REST stands for Representational State Transfer. In Portuguese, Representational State Transfer. It is an abstraction of the web architecture. In short, REST consists of principles / rules / constraints that, when followed, allow the creation of a project with well-defined interfaces. In this way, allowing, for example, applications to communicate.
+
+- works exclusively with http
+- via route
+
+> C reate - POST
+>
+> R ead   - GET
+>
+> U pdate - PUT
+>
+> D elete - DELETE
+
+In general, GET is used to recover, POST to create, PUT to change and DELETE to delete.
+
+[Get REST paper](https://ieeexplore.ieee.org/document/8385157)
+
+[GO TO INDEX](#index)
+
+<br />
+
+**RESTFUL(SOAP)**
+
+There is some confusion about the terms REST and RESTful. However, both represent the same principles. The difference is only grammatical. In other words, systems that use the REST principles are called RESTful.
+
+- REST: set of architectural principles
+- RESTful: ability of a given system to apply the principles of REST.
+- Ability to implement REST (RESTFul) is the REST concept implemented correctly.
+- [Testing Web API services with Postman](https://medium.com/@thi_carva/testando-servi%C3%A7os-web-api-com-postman-874ac81b20a3) - List of Status Return Code
+- [What is API? REST and RESTful? Know the definitions and differences!](Https://becode.com.br/o-que-e-api-rest-e-restful/) - API, REST and “RESTful”
+
+[GO TO INDEX](#index)
+
+<br />
+
+## Development
+
+Facilitated project development:
+
+- [gitignore](https://github.com/github/gitignore) - A collection of .gitignore templates.
+- [Project Philosophies](https://docs.djangoproject.com/en-us/3.0/misc/design-philosophies/#dry) - This document explains some of the philosophies that Django developers have used when creating the framework. Its purpose is to explain the past and guide the future.ed to know about refactoring, design patterns, SOLID principles, and other smart programming topics.
+- [SourceMaking](https://sourcemaking.com/) - I will tell you a lot of stories about good software architecture and teach you how to create it with design patterns. I will guide you through anti-patterns, common pitfalls and mistakes that people make when they plan, create, and manage software projects. In the end, I will teach you how to smell a bad code and improve it with refactoring.
+
+[GO TO INDEX](#index)
+
+<br />
+
+### Development Environment
+
+Facilitated project ambient:
+
+- [Creating virtual environments for Python projects with Virtualenv](https://www.treinaweb.com.br/blog/criando-ambientes-virtuais-para-projetos-python-com-o-virtualenv/) - A virtual environment packages all the dependencies that a project needs and stores in a directory, making sure that no packages are installed directly on the operating system.
+
+[GO TO INDEX](#index)
+
+<br />
+
+### Methodologies
+
+Agile software development comprises various approaches to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s). [wikipedia](https://en.wikipedia.org/wiki/Agile_software_development).
+
+- [Dont Repeat Yourself](http://wiki.c2.com/?DontRepeatYourself) - Duplication (inadvertent or purposeful duplication) can lead to maintenance nightmares, poor factoring, and logical contradictions.
+- [eXtreme programming]([LINK](https://en.wikipedia.org/wiki/Extreme_programming)) - Extreme programming, or simply XP, is considered an agile methodology as it fits well with small and medium sized software developers with vague and constantly changing requirements.
+- [Test-driven development]((https://en.wikipedia.org/wiki/Test-driven_development)) -  Is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the code is improved so that the tests pass.
+- [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) - Is an agile process framework for managing complex knowledge work, with an initial emphasis on software development, although it has been used in other fields and is slowly starting to be explored for other complex work, research and advanced technologies.
+- [Kanban](https://en.wikipedia.org/wiki/Kanban) - Is a scheduling system for lean manufacturing and just-in-time manufacturing (JIT).
+- [Code Style](https://docs.python-guide.org/writing/style/) - One reason for the high readability of Python code is its relatively complete set of Code Style guidelines and “Pythonic” idioms.
+
+[GO TO INDEX](#index)
+
+<br />
+
+### Best Pratices
+
+Development best practices:
+
+- [Tests with python: how to do a safe refactoring](https://pt.slideshare.net/valbertovc/testes-com-python-como-fazer-uma-refatorao-segura) - Tests with python: how to do a refactoring safe.
+
+- [Introduction to Refactoring](https://www.devmedia.com.br/introducao-a-refatoracao/21377) - Introduction to Refactoring.
+- [How to refactor code in Python - Beginner's Guide](http://pt.abcarticulos.info/article/como-refatorar-cdigo-em-python-guia-do-iniciante) - Refactoring is just an elegant way to describe a process in which you re-write parts of the code to make it better.
+- [Refactoring: Concepts and Benefits](https://medium.com/@tdsmarques/refatora%C3%A7%C3%A3o-conceitos-e-benef%C3%ADcios-f45d7bb977c8) - Refactoring is the process of changing the source code in a way that does not alter its external behavior and still improve its internal structure.
+- [Definitive guide to refactoring](Https://medium.com/studio-oceano/guia-definitivo-para-a-refatora%C3%A7%C3%A3o-568cc6625eaf) - This post has an extensive content, is a translation and adaptation of the website's refactoring session: [Refactoring.Guru](https://refactoring.guru).
+
+- [Refactoring Python Applications for Simplicity](https://realpython.com/python-refactoring/) - If you can write and maintain clean, simple Python code, then it’ll save you lots of time in the long term.
+- [UML](https://sourcemaking.com/uml) - Most books about UML describe it almost in its entirety. Inevitably you’re left with only a superficial knowledge of the range of UML elements, without a deep and intuitive understanding of how to apply UML as a whole to real world design problems.
+- [Refactoring](https://sourcemaking.com/refactoring) - Bloaters are code, methods and classes that have increased to such gargantuan proportions that they are hard to work with.
+- [AntiPatterns](https://sourcemaking.com/antipatterns) - AntiPatterns, like their design pattern counterparts, define an industry vocabulary for the common defective processes and implementations within organizations. 
+- [Design Patterns](https://sourcemaking.com/design_patterns) - In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design.
+- [Python Design Patterns](https://github.com/kelvins/design-patterns-python)
+
+[GO TO INDEX](#index)
+
+<br />
+
+### Microservices
+
+It is always nice to add a short column for role models nearby that inspire you:+
 
 - [TEXT](LINK)
 - [TEXT](LINK)
