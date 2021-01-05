@@ -261,7 +261,7 @@ Below is a list of tools that make the job easier:
 
 Below is a list of downloads:
 
-- [LibGen](https://libgen.me/) ou [Library Genesis](http://libgen.rs/) - It's a search engine for scientific articles and fiction books, has more than 2 million scientific articles (which are published by researchers from universities around the world) and 2.7 million fiction books in several languages, mainly English, but it is possible to find content in Portuguese.
+- [LibGen](www.libgen.pw) ou [Library Genesis](http://libgen.rs/) - It's a search engine for scientific articles and fiction books, has more than 2 million scientific articles (which are published by researchers from universities around the world) and 2.7 million fiction books in several languages, mainly English, but it is possible to find content in Portuguese.
 - [Sci-Hub](www.sci-hub.pw) - It's an online repository with more than 64 million scientific articles, available on its website. New documents are sent daily through the domains of educational institutions, which bypass systems that restrict access to Internet users without paid records on their websites. It was founded by a neuroscientist from Kazakhstan. To get a scientific article, just place the DOI (Digital Object Identifier - a standard for identifying digital objects) in the search field and the website will redirect you to purchase the article. A good website for picking up DOIs is at [ScienceDirect](https://www.sciencedirect.com/).
 - [Scielo](www.scielo.org) - Scientific articles in Portuguese
   Scielo is a digital library of FAPESP, CNPq, Pan American Health Organization, Virtual Health Library and the Support Foundation to the Federal University of SP, where thousands of articles from all areas can be found in Portuguese and easily downloaded.
@@ -292,6 +292,7 @@ Development tools for projects:
 - [Libraries.io](https://libraries.io/) - Monitor your dependencies.
 - [hoppscotch](https://github.com/hoppscotch/hoppscotch) - A free API request maker.
 - [shields.io](https://shields.io/)
+- [draw.io](https://www.draw.io/) - É um site de diagramação on-line  com o exemplo GraphEditor do mxGraph como a base da parte da aplicação.
 - [Anaconda Cloud](https://anaconda.org/) - Anaconda Cloud is where data scientists share their work. You can search and download popular Python and R packages and notebooks to start your data science work.
 - [Apache Flink](http://flink.apache.org/) A platform for efficient, distributed and general purpose data processing.
 - [Apache Spark](https://spark.apache.org/) - Extremely fast cluster computing.
