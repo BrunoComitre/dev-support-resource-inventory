@@ -328,6 +328,7 @@ Development tools for projects:
 - [PyCharm](https://www.jetbrains.com/pycharm/) - The Python IDE for Professional Developers.
 - [Brython](https://github.com/brython-dev/brython) - Browser Python is an implementation of Python 3 running in the browser, with an interface to the DOM elements and events.
 - [JustPy](https://github.com/elimintz/justpy) - JustPy is an object-oriented, component based, high-level Python Web Framework that requires no front-end programming.
+- [Read the Docs](https://readthedocs.org/)
 
 <br />
 
@@ -379,8 +380,8 @@ Automated, process-oriented methodology used by analytical and data teams to imp
 Below is a list of sites that have an introduction to what HTTP Requests is:
 
 - [Difference Between Those HTTP Requests](https://dev.to/flippedcoding/difference-between-those-http-requests-2m13)
-
 - [Quick start guide](https://requests.readthedocs.io/pt_BR/latest/user/quickstart.html) - This page gives a good introduction on how to start using Requests.
+- [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc)
 
 [GO TO INDEX](#index)
 
@@ -471,8 +472,8 @@ Facilitated project ambient:
 
 ### Methodologies
 
-Agile software development comprises various approaches to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s). [wikipedia](https://en.wikipedia.org/wiki/Agile_software_development).
-
+Agile software development comprises various approaches to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s)- [wikipedia](https://en.wikipedia.org/wiki/Agile_software_development).
+- [code-of-conduct](https://github.com/brazil-it-groups/code-of-conduct)
 - [Dont Repeat Yourself](http://wiki.c2.com/?DontRepeatYourself) - Duplication (inadvertent or purposeful duplication) can lead to maintenance nightmares, poor factoring, and logical contradictions.
 - [eXtreme programming]([LINK](https://en.wikipedia.org/wiki/Extreme_programming)) - Extreme programming, or simply XP, is considered an agile methodology as it fits well with small and medium sized software developers with vague and constantly changing requirements.
 - [Test-driven development]((https://en.wikipedia.org/wiki/Test-driven_development)) -  Is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the code is improved so that the tests pass.
