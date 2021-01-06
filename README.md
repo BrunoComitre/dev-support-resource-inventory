@@ -70,7 +70,7 @@ Initiation steps for a new projectl:
 It is always nice to add a short column for role models nearby that inspire you:
 
 - [RealWorld example apps](https://github.com/gothinkster/realworld) - Repository
-- [TEXT](LINK)
+- [App Ideas Collection](https://github.com/florinpop17/app-ideas)
 
 [GO TO INDEX](#index)
 
@@ -116,6 +116,7 @@ It is always nice to add a short column for role models nearby that inspire you:
 - [GUJ](https://www.guj.com.br/)
 - [Gartner](https://www.gartner.com/en)
 - [Gartner Hype Cycle](https://www.gartner.com/smarterwithgartner/5-trends-drive-the-gartner-hype-cycle-for-emerging-technologies-2020/)
+- [Delimited Context](https://medium.com/contexto-delimitado)
 
 [GO TO INDEX](#index)
 
@@ -146,7 +147,6 @@ Below is a list of sites that offer a variety of free and paid courses:
 - [Universia](http://noticias.universia.com.br/destaque/especial/2013/07/10/1035282/8/700-cursos-online-gratis-das-melhores-universidades-do-mundo/cursos-online-gratis-de-ci%C3%AAncia-da-computa%C3%A7%C3%A3o-e-intelig%C3%AAncia-artificial.html) - Universia Brazil brought together 700 free online courses from the best universities in Brazil and the world. Check out courses in Computer Science and Artificial Intelligence.
 - [Duolingo](https://www.duolingo.com/) - Learn languages for free, forever.
 - [e-stude](http://e-stude.com/site/) - E-learning platform aimed at training software development teams.
-
 - [AcademIA](https://www.microsoft.com/pt-br/academia)
 - [Portal GSTI](https://www.portalgsti.com.br/)
 - [EdX](https://www.edx.org/)
@@ -201,6 +201,7 @@ Below is a list of YouTube Channels, Videos I liked and Playlist to music progra
 - Channel [Ambient](https://www.youtube.com/channel/UCm3-xqAh3Z-CwBniG1u_1vw)
 - Channel [City Pop](https://www.youtube.com/results?search_query=city+pop)
 - Channel [Tony Anderson](https://www.youtube.com/channel/UCacN0LHUzn49j_PglvkuK2Q)
+- Video [Learn DDD (Domain Driven Design) the right way](https://www.youtube.com/watch?v=eUf5rhBGLAk&t=733s)
 
 [GO TO INDEX](#index)
 
@@ -472,8 +473,10 @@ Facilitated project ambient:
 
 ### Methodologies
 
-Agile software development comprises various approaches to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s)- [wikipedia](https://en.wikipedia.org/wiki/Agile_software_development).
+Agile software development comprises various approaches to software development under which requirements and solutions evolve through the collaborative effort of self-organizing and cross-functional teams and their customer(s)/end user(s)- [wikipedia](https://en.wikipedia.org/wiki/Agile_software_development)
 - [code-of-conduct](https://github.com/brazil-it-groups/code-of-conduct)
+- [Don't Repeat (DRY Don’t Repeat Yourself)](https://medium.com/@rafaelsouzaim/n%C3%A3o-se-repita-dry-dont-repeat-yourself-40da33289bcf)
+- [Simplifying Isn't Stupid, It's Ingenuity - KISS Principle (Keep It Simple Stupid)](https://medium.com/@rafaelsouzaim/simplificar-n%C3%A3o-%C3%A9-estupidez-%C3%A9-engenhosidade-princ%C3%ADpio-kiss-keep-it-simple-stupid-ffa4a0b1943)
 - [Dont Repeat Yourself](http://wiki.c2.com/?DontRepeatYourself) - Duplication (inadvertent or purposeful duplication) can lead to maintenance nightmares, poor factoring, and logical contradictions.
 - [eXtreme programming]([LINK](https://en.wikipedia.org/wiki/Extreme_programming)) - Extreme programming, or simply XP, is considered an agile methodology as it fits well with small and medium sized software developers with vague and constantly changing requirements.
 - [Test-driven development]((https://en.wikipedia.org/wiki/Test-driven_development)) -  Is a software development process that relies on the repetition of a very short development cycle: requirements are turned into very specific test cases, then the code is improved so that the tests pass.
@@ -490,18 +493,22 @@ Agile software development comprises various approaches to software development 
 Development best practices:
 
 - [Tests with python: how to do a safe refactoring](https://pt.slideshare.net/valbertovc/testes-com-python-como-fazer-uma-refatorao-segura) - Tests with python: how to do a refactoring safe.
-
 - [Introduction to Refactoring](https://www.devmedia.com.br/introducao-a-refatoracao/21377) - Introduction to Refactoring.
 - [How to refactor code in Python - Beginner's Guide](http://pt.abcarticulos.info/article/como-refatorar-cdigo-em-python-guia-do-iniciante) - Refactoring is just an elegant way to describe a process in which you re-write parts of the code to make it better.
 - [Refactoring: Concepts and Benefits](https://medium.com/@tdsmarques/refatora%C3%A7%C3%A3o-conceitos-e-benef%C3%ADcios-f45d7bb977c8) - Refactoring is the process of changing the source code in a way that does not alter its external behavior and still improve its internal structure.
 - [Definitive guide to refactoring](Https://medium.com/studio-oceano/guia-definitivo-para-a-refatora%C3%A7%C3%A3o-568cc6625eaf) - This post has an extensive content, is a translation and adaptation of the website's refactoring session: [Refactoring.Guru](https://refactoring.guru).
-
 - [Refactoring Python Applications for Simplicity](https://realpython.com/python-refactoring/) - If you can write and maintain clean, simple Python code, then it’ll save you lots of time in the long term.
 - [UML](https://sourcemaking.com/uml) - Most books about UML describe it almost in its entirety. Inevitably you’re left with only a superficial knowledge of the range of UML elements, without a deep and intuitive understanding of how to apply UML as a whole to real world design problems.
 - [Refactoring](https://sourcemaking.com/refactoring) - Bloaters are code, methods and classes that have increased to such gargantuan proportions that they are hard to work with.
 - [AntiPatterns](https://sourcemaking.com/antipatterns) - AntiPatterns, like their design pattern counterparts, define an industry vocabulary for the common defective processes and implementations within organizations. 
 - [Design Patterns](https://sourcemaking.com/design_patterns) - In software engineering, a design pattern is a general repeatable solution to a commonly occurring problem in software design.
 - [Python Design Patterns](https://github.com/kelvins/design-patterns-python)
+- [After all what is “Dependency Injection” (examples with C#)](https://medium.com/@marcionizzola/afinal-o-que-%C3%A9-inje%C3%A7%C3%A3o-de-depend%C3%AAncia-68131c864a79)
+- [Dependency Inversion Principle — DIP](https://medium.com/contexto-delimitado/o-princ%C3%ADpio-da-invers%C3%A3o-de-depend%C3%AAncia-d52987634fa9)
+- [Open Closed Principle — OCP](https://medium.com/contexto-delimitado/o-princ%C3%ADpio-aberto-fechado-9341b96f060f)
+- [Liskov Substitution Principle — LSP](https://medium.com/contexto-delimitado/o-princ%C3%ADpio-da-substitui%C3%A7%C3%A3o-de-liskov-df5648906fbe)
+- [Single Responsibility Principle — SRP](https://medium.com/contexto-delimitado/o-princ%C3%ADpio-da-responsabilidade-%C3%BAnica-4a77dee3b590)
+- [Interface Segregation Principle — ISP](https://medium.com/contexto-delimitado/o-princ%C3%ADpio-da-segrega%C3%A7%C3%A3o-de-interfaces-2b673374406e)
 
 [GO TO INDEX](#index)
 
@@ -525,6 +532,10 @@ Links from different sites:
 - [App Ideas Collection](https://github.com/florinpop17/app-ideas)
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [Literate Programmin](http://www.literateprogramming.com/)
+- [For those just starting out, those terms that look like another language](https://medium.com/@marcionizzola/para-quem-est%C3%A1-come%C3%A7ando-aqueles-termos-que-parecem-outra-l%C3%ADngua-be7fcec6a6cf)
+- [Can we improve our code with some techniques?](https://medium.com/@marcionizzola/podemos-melhorar-nosso-c%C3%B3digo-com-algumas-t%C3%A9cnicas-2635a43e8722)
+- [Abstract Classes x Interfaces (examples with C#)](https://medium.com/@marcionizzola/classes-abstratas-x-interfaces-exemplos-com-c-d331ea6f2612)
+- [SonarQube — Static Code Analysis](https://medium.com/code-to-express/sonarqube-static-code-analysis-8b6ca5226d2b)
 
 [GO TO INDEX](#index)
 
@@ -538,6 +549,7 @@ Below are lists with more content that increase the capacity of this list to x10
 - [How to delete remote branches in Git](https://www.educative.io/edpresso/how-to-delete-remote-branches-in-git) - Article.
 - [Pro Git book](https://git-scm.com/book/pt-br/v2) - Official git book.
 - [Git](https://git-scm.com/docs/git-log) - Official git documentation.
+- [git-secret](https://github.com/sobolevn/git-secret) - Is a bash tool which stores private data inside a git repository.
 - [List of useful GIT commands](https://gist.github.com/leocomelli/2545add34e4fec21ec16) - Gist Github.
 - [Git](https://git-scm.com/) - Git website.
 - [Git Config](https://git-scm.com/docs/git-config)
