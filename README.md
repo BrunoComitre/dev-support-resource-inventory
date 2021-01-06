@@ -669,7 +669,7 @@ Tip: There is a plugin to facilitate the creation and organization of your repos
 
 ## Notes
 
-Space to add development notes:
+Space to add Git notes:
 
 Update branch with develop:
 
