@@ -119,6 +119,7 @@ It is always nice to add a short column for role models nearby that inspire you:
 - [Gartner](https://www.gartner.com/en)
 - [Gartner Hype Cycle](https://www.gartner.com/smarterwithgartner/5-trends-drive-the-gartner-hype-cycle-for-emerging-technologies-2020/)
 - [Delimited Context](https://medium.com/contexto-delimitado)
+- [Marcio Nizzola](https://medium.com/@marcionizzola)
 
 [GO TO INDEX](#index)
 
