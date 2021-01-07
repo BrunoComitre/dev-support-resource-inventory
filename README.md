@@ -203,6 +203,7 @@ Below is a list of YouTube Channels, Videos I liked and Playlist to music progra
 - Channel [Ambient](https://www.youtube.com/channel/UCm3-xqAh3Z-CwBniG1u_1vw)
 - Channel [City Pop](https://www.youtube.com/results?search_query=city+pop)
 - Channel [Tony Anderson](https://www.youtube.com/channel/UCacN0LHUzn49j_PglvkuK2Q)
+- Channel [Mahogany](https://www.youtube.com/channel/UCG36u-k09zdIPQh5EEdVgTA)
 - Video [Learn DDD (Domain Driven Design) the right way](https://www.youtube.com/watch?v=eUf5rhBGLAk&t=733s)
 
 [GO TO INDEX](#index)
