@@ -63,6 +63,53 @@ Initiation steps for a new projectl:
 - **Step 4:** Configure separate requirements.txt dev / prod / local, when using docker.
 - **Step 5:** Use good commit practices.
 
+**VsCode Basic Settings**
+```
+{
+    "breadcrumbs.enabled": true,
+    "editor.minimap.enabled": false,
+    "editor.renderIndentGuides": false,
+    "editor.rulers": [
+        {
+            "column": 80,
+            "color": "#8f9490"
+          },
+          100,  // a ruler with the default or editorRuler.foreground color at column 100
+          {
+            "column": 120,
+            "color": "#8f9490"
+          },
+    ],
+    "editor.suggestSelection": "first",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.inheritEnv": false,
+    "window.zoomLevel": 0,
+    "workbench.editor.showTabs": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#000000",
+        "activityBar.activeBorder": "#ffffff",
+        "activityBar.background": "#000000",
+        "activityBar.foreground": "#ffffff",
+        "activityBar.inactiveForeground": "#ffffff",
+        "activityBarBadge.background": "#ffffff",
+        "activityBarBadge.foreground": "#000000",
+        "statusBar.background": "#000000",
+        "statusBar.foreground": "#ffffff",
+        "statusBarItem.hoverBackground": "#000000",
+        "titleBar.activeBackground": "#000000",
+        "titleBar.activeForeground": "#ffffff",
+        "titleBar.inactiveBackground": "#000000",
+        "titleBar.inactiveForeground": "#ffffff",
+        "editor.background": "#000000",
+        "sideBar.background": "#000000",
+        "sideBar.border": "#ffffff",
+        "tab.activeBackground": "#8f9490",
+        "editorGroupHeader.tabsBackground": "#000000"
+    }
+}
+```
+
 [GO TO INDEX](#index)
 
 <br />
