@@ -257,6 +257,7 @@ Below is a list of tools that make the job easier:
 - [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
 - [Micro-Service Design Pattern: Dependency Driven Decomposition (DDD)](https://medium.com/swlh/micro-service-design-pattern-dependency-driven-decomposition-ddd-d2d28df2fedc)
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
+- [Implement Domain-Driven Design](https://dev.to/guisfits/implementando-domain-driven-design-3d1h)
 
 [GO TO INDEX](#index)
 
@@ -373,7 +374,7 @@ Development tools for projects:
 
 Automated, process-oriented methodology used by analytical and data teams to improve quality and reduce data analysis cycle time:
 
-- [TEXT](LINK)
+- [DataOps: Kubernetes on local with vagrant and kubeadm](https://dev.to/calvintran/kubernetes-on-local-with-vagrant-and-kubeadm-5bed)
 - [TEXT](LINK)
 
 [GO TO INDEX](#index)
@@ -562,6 +563,7 @@ Below are lists with more content that increase the capacity of this list to x10
 - [Git Gist GitHub](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 - [GitHub Docs](https://docs.github.com/en)
 - [Contributing to open source projects with github](https://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
+- [Git-flow the most beloved anti-pattern of the group](https://medium.com/@paulociecomp/pare-de-usar-o-git-flow-6efc6a287094)
 
 <br />
 
