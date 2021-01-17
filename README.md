@@ -559,7 +559,7 @@ Below are lists with more content that increase the capacity of this list to x10
 - [Git](https://git-scm.com/) - Git website.
 - [Git Config](https://git-scm.com/docs/git-config)
 - [git-start](https://github.com/fadamiao/git-start) - This is a collaborative guide on how to use the basic features of the Git version control system.
-- [git and github part 1: what are they and how to use them?](http://www.ratamero.com/blog/git-e-github-parte-1-o-que-sao-e-como-usar /)
+- [git and github part 1: what are they and how to use them?](http://www.ratamero.com/blog/git-e-github-parte-1-o-que-sao-e-como-usar/)
 - [Git Gist GitHub](https://gist.github.com/leocomelli/2545add34e4fec21ec16)
 - [GitHub Docs](https://docs.github.com/en)
 - [Contributing to open source projects with github](https://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
