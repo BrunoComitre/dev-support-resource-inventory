@@ -65,49 +65,7 @@ Initiation steps for a new projectl:
 
 **VsCode Basic Settings**
 ```
-{
-    "breadcrumbs.enabled": true,
-    "editor.minimap.enabled": false,
-    "editor.renderIndentGuides": false,
-    "editor.rulers": [
-        {
-            "column": 80,
-            "color": "#8f9490"
-          },
-          100,  // a ruler with the default or editorRuler.foreground color at column 100
-          {
-            "column": 120,
-            "color": "#8f9490"
-          },
-    ],
-    "editor.suggestSelection": "first",
-    "explorer.confirmDelete": false,
-    "terminal.integrated.inheritEnv": false,
-    "window.zoomLevel": 0,
-    "workbench.editor.showTabs": true,
-    "workbench.iconTheme": "vscode-icons",
-    "workbench.colorCustomizations": {
-        "activityBar.activeBackground": "#000000",
-        "activityBar.activeBorder": "#ffffff",
-        "activityBar.background": "#000000",
-        "activityBar.foreground": "#ffffff",
-        "activityBar.inactiveForeground": "#ffffff",
-        "activityBarBadge.background": "#ffffff",
-        "activityBarBadge.foreground": "#000000",
-        "statusBar.background": "#000000",
-        "statusBar.foreground": "#ffffff",
-        "statusBarItem.hoverBackground": "#000000",
-        "titleBar.activeBackground": "#000000",
-        "titleBar.activeForeground": "#ffffff",
-        "titleBar.inactiveBackground": "#000000",
-        "titleBar.inactiveForeground": "#ffffff",
-        "editor.background": "#000000",
-        "sideBar.background": "#000000",
-        "sideBar.border": "#ffffff",
-        "tab.activeBackground": "#8f9490",
-        "editorGroupHeader.tabsBackground": "#000000"
-    }
-}
+Exist in Github Gist Private
 ```
 
 [GO TO INDEX](#index)
@@ -252,6 +210,7 @@ Below is a list of YouTube Channels, Videos I liked and Playlist to music progra
 - Channel [City Pop](https://www.youtube.com/results?search_query=city+pop)
 - Channel [Tony Anderson](https://www.youtube.com/channel/UCacN0LHUzn49j_PglvkuK2Q)
 - Channel [Mahogany](https://www.youtube.com/channel/UCG36u-k09zdIPQh5EEdVgTA)
+- Channel [NewRetroWave](https://www.youtube.com/channel/UCD-4g5w1h8xQpLaNS_ghU4g)
 - Video [Learn DDD (Domain Driven Design) the right way](https://www.youtube.com/watch?v=eUf5rhBGLAk&t=733s)
 
 [GO TO INDEX](#index)
