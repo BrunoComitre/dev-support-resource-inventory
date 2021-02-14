@@ -246,6 +246,7 @@ Computing Tutorials:
 - [Gitter](https://gitter.im/explore/tags/curated:data-science)
 - [Slack](https://slack.com/intl/pt-br/)
 - [Mozilla Resources for developers](https://developer.mozilla.org/pt-BR/)
+- [Parameters HTTP Raw Logs](https://learn.akamai.com/en-us/webhelp/datastream/datastream-user-guide/GUID-56313AE3-C16F-4BCF-9D83-C26DE737F762.html) [EN-US]
 
 [GO TO INDEX](#index)
 
