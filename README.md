@@ -496,6 +496,7 @@ Agile software development comprises various approaches to software development 
 - [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) - Is an agile process framework for managing complex knowledge work, with an initial emphasis on software development, although it has been used in other fields and is slowly starting to be explored for other complex work, research and advanced technologies.
 - [Kanban](https://en.wikipedia.org/wiki/Kanban) - Is a scheduling system for lean manufacturing and just-in-time manufacturing (JIT).
 - [Code Style](https://docs.python-guide.org/writing/style/) - One reason for the high readability of Python code is its relatively complete set of Code Style guidelines and “Pythonic” idioms.
+- [Agile Manifesto](http://agilemanifesto.org/iso/ptbr/manifesto.html) - Manifest for Agile Software Developmentre.
 
 [GO TO INDEX](#index)
 
@@ -549,6 +550,10 @@ Links from different sites:
 - [Can we improve our code with some techniques?](https://medium.com/@marcionizzola/podemos-melhorar-nosso-c%C3%B3digo-com-algumas-t%C3%A9cnicas-2635a43e8722)
 - [Abstract Classes x Interfaces (examples with C#)](https://medium.com/@marcionizzola/classes-abstratas-x-interfaces-exemplos-com-c-d331ea6f2612)
 - [SonarQube — Static Code Analysis](https://medium.com/code-to-express/sonarqube-static-code-analysis-8b6ca5226d2b)
+- [Como avaliar (e auxiliar) a sua equipe com Entrega Contínua](https://www.infoq.com/br/articles/como-avaliar-sua-equipe-com-entrega-continua/?itm_source=infoq&itm_campaign=user_page&itm_medium=link)
+- [Integração contínua e feature toggles](https://marciofrayze.medium.com/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-feature-toggles-329055e96de9)
+- [Quais foram as mudanças realizadas em nossa plataforma para adequação à LGPD?](https://escolaemmovimentohelp.zendesk.com/hc/pt-br/articles/360050793111)
+- [Spike em métodos ágeis: Adquirindo conhecimento durante a Sprint](https://medium.com/experience-valley/spike-fb62eb2a0b1f)
 
 [GO TO INDEX](#index)
 
