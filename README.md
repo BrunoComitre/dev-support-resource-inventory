@@ -248,6 +248,14 @@ Computing Tutorials:
 - [Mozilla Resources for developers](https://developer.mozilla.org/pt-BR/)
 - [Parameters HTTP Raw Logs](https://learn.akamai.com/en-us/webhelp/datastream/datastream-user-guide/GUID-56313AE3-C16F-4BCF-9D83-C26DE737F762.html) [EN-US]
 - [Placeholder.com](https://placeholder.com/) [EN-US]
+- [Mundo API](https://mundoapi.com.br/) [PT-BR]
+- [InfoQ](https://www.infoq.com/br/) [PT-BR]
+- [StackBlitz](https://stackblitz.com/) [EN-US]
+- [GitHubMemory](https://githubmemory.com/repo/brunocomitre/brunocomitre) [EN-US]
+- [GitMemory](https://www.gitmemory.com/brunocomitre) [EN-US]
+- [Dev Docs](https://devdocs.io/) [EN-US]
+- [CSDN](https://www.csdn.net/) [ZH-CN]
+- [RedditMemory](https://redditmemory.com/) [EN-US]
 
 [GO TO INDEX](#index)
 
@@ -554,6 +562,7 @@ Links from different sites:
 - [Integração contínua e feature toggles](https://marciofrayze.medium.com/integra%C3%A7%C3%A3o-cont%C3%ADnua-e-feature-toggles-329055e96de9)
 - [Quais foram as mudanças realizadas em nossa plataforma para adequação à LGPD?](https://escolaemmovimentohelp.zendesk.com/hc/pt-br/articles/360050793111)
 - [Spike em métodos ágeis: Adquirindo conhecimento durante a Sprint](https://medium.com/experience-valley/spike-fb62eb2a0b1f)
+- [O que é o IAM?](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/introduction.html)
 
 [GO TO INDEX](#index)
 
@@ -577,6 +586,10 @@ Below are lists with more content that increase the capacity of this list to x10
 - [GitHub Docs](https://docs.github.com/en)
 - [Contributing to open source projects with github](https://tableless.com.br/contribuindo-em-projetos-open-source-com-o-github/)
 - [Git-flow the most beloved anti-pattern of the group](https://medium.com/@paulociecomp/pare-de-usar-o-git-flow-6efc6a287094)
+- [Spike em métodos ágeis: Adquirindo conhecimento durante a Sprint](https://medium.com/experience-valley/spike-fb62eb2a0b1f)
+- [Não confunda DoR, DoD e Critérios de Aceite](https://medium.com/guma-rs/n%C3%A3o-confunda-dod-com-crit%C3%A9rios-de-aceite-d030b9a812d9)
+- [Modelo Spotify Squads: O que é e como funciona](https://targetteal.com/pt/blog/modelo-spotify-squads/)
+- []()
 
 <br />
 
