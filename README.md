@@ -23,6 +23,7 @@
 - [Searches](#searches)
   - [Helpers](#helpers)
   - [Patterns](#patterns)
+  - [Commits](#commits)
   - [Download](#download)
   - [Tools](#tools)
   - [DevOps](#devops)
@@ -267,7 +268,6 @@ Below is a list of tools that make the job easier:
 
 - [Source Making](https://sourcemaking.com/) - Contains models and descriptions of Design Patterns, Antipatters, Refactoring, UML.
 - [Refactoring.Guru](https://refactoring.guru/) - Contains models and descriptions of Design Patterns, Antipatters, Refactoring, UML.
-- [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) - Style guide for standardizing commits.
 - [Python Design Patterns](https://github.com/kelvins/design-patterns-python) - Python pattern guide.
 - [The System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [The Best of the Best Practices (BOBP) Guide for Python](https://gist.github.com/sloria/7001839)
@@ -279,6 +279,15 @@ Below is a list of tools that make the job easier:
 
 <br />
 
+### Commits
+
+- [Conventional Commits](https://www.conventionalcommits.org/pt-br/v1.0.0/)
+- [Udacity Git Commit Message Style Guide](https://udacity.github.io/git-styleguide/) - Style guide for standardizing commits.
+- [Semantic Versioning 2.0.0](https://semver.org/)
+
+[GO TO INDEX](#index)
+
+<br />
 ### Download
 
 Below is a list of downloads:
