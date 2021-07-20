@@ -514,6 +514,8 @@ Agile software development comprises various approaches to software development 
 - [Kanban](https://en.wikipedia.org/wiki/Kanban) - Is a scheduling system for lean manufacturing and just-in-time manufacturing (JIT).
 - [Code Style](https://docs.python-guide.org/writing/style/) - One reason for the high readability of Python code is its relatively complete set of Code Style guidelines and “Pythonic” idioms.
 - [Agile Manifesto](http://agilemanifesto.org/iso/ptbr/manifesto.html) - Manifest for Agile Software Developmentre.
+- [Teorema CAP](https://angeliski.com.br/2020/10/09/teorema-cap-o-que-%C3%A9-isso/)
+- [ACID](https://medium.com/opensanca/o-que-%C3%A9-acid-59b11a81e2c6#:~:text=ACID%20%C3%A9%20um%20conceito%20que,%2C%20Consist%C3%AAncia%2C%20Isolamento%20e%20Durabilidade.)
 
 [GO TO INDEX](#index)
 
