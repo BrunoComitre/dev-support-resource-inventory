@@ -77,8 +77,8 @@ Exist in Github Gist Private
 
 It is always nice to add a short column for role models nearby that inspire you:
 
-- [RealWorld example apps](https://github.com/gothinkster/realworld) - Repository
-- [App Ideas Collection](https://github.com/florinpop17/app-ideas)
+- [Bruno Rocha](https://beacons.ai/rochacbruno)
+- [Bob Belsderbos](https://bobbelderbos.com/)
 
 [GO TO INDEX](#index)
 
@@ -224,7 +224,6 @@ Below is a list of YouTube Channels, Videos I liked and Playlist to music progra
 Below are lists with more content that increase the capacity to study:
 
 - [Hipsters.Tech](https://hipsters.tech/category/podcast/)
-- [TEXT](LINK)
 
 [GO TO INDEX](#index)
 
@@ -563,6 +562,7 @@ It is always nice to add a short column for role models nearby that inspire you:
 
 Links from different sites:
 
+- [RealWorld example apps](https://github.com/gothinkster/realworld)
 - [App Ideas Collection](https://github.com/florinpop17/app-ideas)
 - [Public APIs](https://github.com/public-apis/public-apis)
 - [Literate Programmin](http://www.literateprogramming.com/)
