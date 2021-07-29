@@ -288,6 +288,7 @@ Below is a list of tools that make the job easier:
 [GO TO INDEX](#index)
 
 <br />
+
 ### Download
 
 Below is a list of downloads:
@@ -360,6 +361,8 @@ Development tools for projects:
 - [Brython](https://github.com/brython-dev/brython) - Browser Python is an implementation of Python 3 running in the browser, with an interface to the DOM elements and events.
 - [JustPy](https://github.com/elimintz/justpy) - JustPy is an object-oriented, component based, high-level Python Web Framework that requires no front-end programming.
 - [Read the Docs](https://readthedocs.org/)
+- [Bazel](https://github.com/bazelbuild/bazel) - Bazel is an open source tool that allows the automation of software build and testing.
+- [Starlark](https://github.com/bazelbuild/starlark) - It is a language intended to be used as a configuration language.
 
 <br />
 
