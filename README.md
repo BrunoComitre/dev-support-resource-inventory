@@ -365,7 +365,7 @@ Development tools for projects:
 - [Bazel](https://github.com/bazelbuild/bazel) - Bazel is an open source tool that allows the automation of software build and testing.
 - [Starlark](https://github.com/bazelbuild/starlark) - It is a language intended to be used as a configuration language.
 - [Whimsical](https://whimsical.com/) - Visual workspace for thinking and collaboration for create Diagrams.
-- 
+
 <br />
 
 |      Development      |                                Tools                                |
