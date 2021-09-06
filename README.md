@@ -365,6 +365,7 @@ Development tools for projects:
 - [Bazel](https://github.com/bazelbuild/bazel) - Bazel is an open source tool that allows the automation of software build and testing.
 - [Starlark](https://github.com/bazelbuild/starlark) - It is a language intended to be used as a configuration language.
 - [Whimsical](https://whimsical.com/) - Visual workspace for thinking and collaboration for create Diagrams.
+- [GitHub Codespaces](https://docs.github.com/en/codespaces) - Configurable, and dedicated development environment for works.
 
 <br />
 
@@ -580,6 +581,9 @@ Links from different sites:
 - [Quais foram as mudanças realizadas em nossa plataforma para adequação à LGPD?](https://escolaemmovimentohelp.zendesk.com/hc/pt-br/articles/360050793111)
 - [Spike em métodos ágeis: Adquirindo conhecimento durante a Sprint](https://medium.com/experience-valley/spike-fb62eb2a0b1f)
 - [O que é o IAM?](https://docs.aws.amazon.com/pt_br/IAM/latest/UserGuide/introduction.html)
+- [150+ Badges for GitHub](https://dev.to/envoy_/150-badges-for-github-pnk)
+- [25 Places Where You Can Launch Your Startup and Side Projects](https://dev.to/hrishikesh1990/25-places-where-you-can-launch-your-startup-and-side-projects-328d)
+- [Trabalhando remoto](http://trabalhando-remoto.dyegocosta.documentup.com/)
 
 [GO TO INDEX](#index)
 
