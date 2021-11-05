@@ -94,6 +94,9 @@ It is always nice to add a short column for role models nearby that inspire you:
 - [KDnuggets](https://www.kdnuggets.com/)
 - [Dev.to](https://dev.to/)
 - [Twitch](https://www.twitch.tv/)
+- [The Clean Code Blog](http://blog.cleancoder.com/)
+- [Domain-Driven Design](https://serialized.io/ddd/)
+- [Khalil Stemmler](https://khalilstemmler.com/)
 - [Web Developer 2020 - Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Programmable Web](https://www.programmableweb.com/) - News about API's.
 - [Real Python Tutorials](https://realpython.com/)
