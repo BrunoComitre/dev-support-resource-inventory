@@ -408,7 +408,6 @@ Development tools for projects:
 Automated, process-oriented methodology used by analytical and data teams to improve quality and reduce data analysis cycle time:
 
 - [DataOps: Kubernetes on local with vagrant and kubeadm](https://dev.to/calvintran/kubernetes-on-local-with-vagrant-and-kubeadm-5bed)
-- [TEXT](LINK)
 
 [GO TO INDEX](#index)
 
