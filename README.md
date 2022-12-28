@@ -200,7 +200,6 @@ Below is a list of paid and free books:
 Courses related to Development:
 
 - [TEXT](LINK)
-- [TEXT](LINK)
 
 [GO TO INDEX](#index)
 
