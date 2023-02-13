@@ -261,6 +261,7 @@ Computing Tutorials:
 - [Dev Docs](https://devdocs.io/) [EN-US]
 - [CSDN](https://www.csdn.net/) [ZH-CN]
 - [RedditMemory](https://redditmemory.com/) [EN-US]
+- [Fantasy Names Generator](https://www.fantasynamegenerators.com/) [EN-US]
 
 [GO TO INDEX](#index)
 
