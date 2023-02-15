@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Dev Support Resource Inventory :computer:
 
 <u>*A Development Support repository to facilitate studies.*</u>
@@ -12,7 +11,6 @@
 ## [Index](#index)
 
 - [TO-DO](#to-do)
-- [When Starting Project](#when-starting-project)
 - [Mentors and Role Models](#mentors-and-role-models)
 - [Medium Blogs Magazines](#medium-blogs-magazines)
 - [Learning Platforms](#learning-platforms)
@@ -50,25 +48,6 @@ repository updates:
 - [ ] Open sites and verify that they are active and that they are part of the repository.
 - [ ] Add [EN-US] or [PT-BR] to the links
 - [ ] Access stack overflow account for when developing.
-
-[GO TO INDEX](#index)
-
-<br />
-
-## When Starting Project
-
-Initiation steps for a new projectl:
-
-- **Step 1:** Configure pipenv.
-- **Step 2:** Configure VsCode.
-- **Step 3:** Add IPython.
-- **Step 4:** Configure separate requirements.txt dev / prod / local, when using docker.
-- **Step 5:** Use good commit practices.
-
-**VsCode Basic Settings**
-```
-Exist in Github Gist Private
-```
 
 [GO TO INDEX](#index)
 
@@ -173,6 +152,7 @@ Below is a list of sites that offer a variety of free and paid courses:
 - [Geekie](https://www.geekie.com.br/)
 - [Impacta](https://www.impacta.com.br/certificacao/Cursos-Cisco.php)
 - [Ensino](https://canaldoensino.com.br/blog/)
+- [Microsoft Events](https://events.microsoft.com/pt-br/allevents/?language=English&language=Portugu%C3%AAs&clientTimeZone=1&industry=Defense%20%2526%20Intelligence?mkt_tok=MTU3LUdRRS0zODIAAAGJ2Bk4mHqm2_qnjGX-erMPMPNxdgPPAk1h2w_8SnQzVB_b7gUwO9r4a--wQnPCWr4D7J2IASrEfH3LUDpETawl1Y2JeUCtMrQCP4sO6skRv6jqCmFRnPZ3Ow)
 
 [GO TO INDEX](#index)
 
